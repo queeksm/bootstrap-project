@@ -13,7 +13,7 @@
 
 .bottom-section {
   position: absolute;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(255, 255, 255, 0.9);
   bottom: 0;
   left: 0;
   z-index: 1;
@@ -374,7 +374,7 @@
 .culture-text {
   font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
   font-size: 15px;
-  color: rgba(39,39,39,0.5);
+  color: rgba(39, 39, 39, 0.5);
 }
 
 .tags {
@@ -673,6 +673,10 @@
 }
 
 @media only screen and (max-width: 991px) {
+  .container {
+    padding-top: 50px;
+  }
+
   .background1 header .container {
     display: none;
   }
@@ -745,10 +749,6 @@
     border: none;
   }
 
-  .container {
-    padding-top: 50px;
-  }
-
   .small-wrap {
     flex-wrap: wrap;
   }
@@ -756,7 +756,7 @@
   .col3 {
     width: 100%;
   }
-  
+
   .col4 {
     width: 100%;
   }

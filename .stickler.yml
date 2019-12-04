@@ -3,7 +3,7 @@ linters:
     config: 'stylelint.config.js'
 files:
     ignore:
-        - 'css/Normalize/*'
+        - 'css/Normalize/*' 
         
         
         

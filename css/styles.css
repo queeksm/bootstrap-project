@@ -204,7 +204,7 @@
 }
 
 .btn-white:hover {
-  color: #f72210 !important;  
+  color: #f72210 !important;
 }
 
 .container .row .lchild {
@@ -847,7 +847,7 @@
     order: 4;
   }
 
-  .latest-image {    
+  .latest-image {
     width: 135px;
     height: 90px;
   }
@@ -914,7 +914,6 @@
   .sp-0 {
     padding: 0;
   }
-
 }
 
 @media only screen and (min-width: 320px) {
